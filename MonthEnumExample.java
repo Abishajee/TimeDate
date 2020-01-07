@@ -21,5 +21,4 @@ public class MonthEnumExample {
 		System.out.println(month1.plus(2));
 		System.out.println("Total Number of days:"+month.length(true));
 	}
-
 }
